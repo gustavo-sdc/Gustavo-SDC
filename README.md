@@ -17,7 +17,7 @@ Olá, muito prazer em te conheçer!!!!! É uma honra ter você aqui no meu GitHu
 
 
 ------------------------------------------------
-## Inglês
+## English
 Hello, nice to meet you!!!! Your presence, here in my GitHub it's a honor for me. I hope you found what do you want, help, inpirer or code!
 
 ### Programing Linguagens & SW
