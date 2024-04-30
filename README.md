@@ -8,8 +8,9 @@ Olá, muito prazer em te conheçer!!!!! É uma honra ter você aqui no meu GitHu
 
 - **Linguagem principal**:  JavaScript;
 - **Back-End**: PHP, Python, Java, Node.js;
-- **Front-End**: React.JS, HTML, CSS, JavaScript; 
-
+- **Front-End**: React.JS, React Native, HTML, CSS, JavaScript; 
+- **Mobile**: Expo;
+- **Desktop**: Electron.
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,python,php,nodejs,figma,vscode,git,github,postman&perline=6)](https://skillicons.dev)
 
