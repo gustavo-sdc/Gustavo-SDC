@@ -6,9 +6,7 @@ Olá, muito prazer em te conheçer!!!!! É uma honra ter você aqui no meu GitHu
 
 ### Programing Linguagens & SW
 
-- **Linguagem principal**:  JavaScript;
-- **Back-End**: PHP, Python, Java, Node.js;
-- **Front-End**: React.JS, React Native, HTML, CSS, JavaScript; 
+- **Linguagens**: React, Python, TypeScript, Node;
 - **Mobile**: Expo;
 - **Desktop**: Electron.
 
@@ -23,9 +21,7 @@ Hello, nice to meet you!!!! Your presence, here in my GitHub it's a honor for me
 
 ### Programing Linguagens & SW
 
-- **Main Linguage**:  JavaScript;
-- **Back-End**: PHP, Python, Java, Node.js;
-- **Front-End**: React.JS, HTML, CSS, JavaScript;
+- **Linguage**:  React, Python, TypeScript, Node;
 - **Mobile**: Expo;
 - **Desktop**: Electron.
 
