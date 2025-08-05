@@ -10,8 +10,7 @@ Olá, muito prazer em te conheçer!!!!! É uma honra ter você aqui no meu GitHu
 - **Mobile**: Expo;
 - **Desktop**: Electron.
 
-- **Outras linguagens:**
-
+**Outras linguagens:**
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,python,php,nodejs,figma,vscode,git,github,postman&perline=6)](https://skillicons.dev)
 
 
@@ -27,6 +26,5 @@ Hello, nice to meet you!!!! Your presence, here in my GitHub it's a honor for me
 - **Mobile**: Expo;
 - **Desktop**: Electron.
 
-- - **Other languages:**
-
+**Other languages:**
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,python,php,nodejs,figma,vscode,git,github,postman&perline=6)](https://skillicons.dev)
