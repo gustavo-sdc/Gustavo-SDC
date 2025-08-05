@@ -11,6 +11,7 @@ Olá, muito prazer em te conheçer!!!!! É uma honra ter você aqui no meu GitHu
 - **Desktop**: Electron.
 
 **Outras linguagens:**
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,python,php,nodejs,figma,vscode,git,github,postman&perline=6)](https://skillicons.dev)
 
 
@@ -27,4 +28,5 @@ Hello, nice to meet you!!!! Your presence, here in my GitHub it's a honor for me
 - **Desktop**: Electron.
 
 **Other languages:**
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,python,php,nodejs,figma,vscode,git,github,postman&perline=6)](https://skillicons.dev)
